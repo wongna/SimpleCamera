@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name = "options">
+        <item>Revert to Original</item>
+        <item>Make Grayscale</item>
+        <item>Make Binary</item>
+        <item>Convert to CIELAB</item>
+        <item>Extract R-G Channel</item>
+        <item>Extract B-Y Channel</item>
+    </string-array>
+</resources>
+
